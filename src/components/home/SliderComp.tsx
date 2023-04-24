@@ -33,7 +33,7 @@ const SliderComp = () => {
           </div>
 
           <img
-          style={{ width: "40%", height: "40%" }}
+          style={{ width: "40%", height: "30%" }}
             src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a2cb9d2e-70bc-480a-8abc-86d5080ceb57/pegasus-40-yol-ko%C5%9Fu-ayakkab%C4%B1s%C4%B1-f0TcNR.png"
             alt=""
           />
@@ -57,7 +57,7 @@ const SliderComp = () => {
             </div>
           </div>
           <img
-          style={{ width: "40%", height: "40%" }}
+          style={{ width: "40%", height: "30%" }}
             src="https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/639b9866-b3b6-44e7-8b9c-b516fd7a591f/pegasus-40-yol-ko%C5%9Fu-ayakkab%C4%B1s%C4%B1-HTDVsQ.png"
             alt=""
           />
